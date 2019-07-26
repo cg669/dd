@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background: #000;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    touch-action: none
+}
+.dot{
+    border-radius: 100%;
+    position: absolute;
+    background-color: #FAFAD2;
+}
+
+.hat{
+    position: absolute;
+    background-color: green;
+}
+.eat{
+    z-index: 2;
+    background-color: green; 
+}
+.heart{
+    border-radius: 100%;
+    position: absolute;
+    background-color: red;
+}

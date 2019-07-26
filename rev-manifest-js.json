@@ -1,0 +1,10 @@
+{
+  "static/common/js/baseWorkBus.js": "static/common/js/baseWorkBus-b412dbd355.js",
+  "static/common/js/dot.js": "static/common/js/dot-833da3b42e.js",
+  "static/common/js/utils.js": "static/common/js/utils-3a10f3a01e.js",
+  "static/common/js/uuid.js": "static/common/js/uuid-b757913f8f.js",
+  "static/pages/home/index.js": "static/pages/home/index-9c542a08a3.js",
+  "static/pages/snake/js/biu.js": "static/pages/snake/js/biu-8db39f5d49.js",
+  "static/pages/snake/js/hat.js": "static/pages/snake/js/hat-b1673506f3.js",
+  "static/pages/snake/js/snake.js": "static/pages/snake/js/snake-b42fdb547a.js"
+}

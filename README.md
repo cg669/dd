@@ -159,7 +159,7 @@ proxyTable | 代理配置，[http-proxy-middleware](https://github.com/chimurai/
   }
 ```
 
-### 6 js中如何判断是否为开发模式
+### 6、js中如何判断是否为开发模式
 
 ```
 // 当前环境为开发环境
